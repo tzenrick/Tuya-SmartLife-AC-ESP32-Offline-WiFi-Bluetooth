@@ -1,0 +1,47 @@
+
+PROCESSING:AA140101000610011000461700000000000000000044:
+Header1 = 170
+Header2 = 20
+StatusOrCommand = Status
+Power = On
+Unknown = 0
+SwingV = 6
+SwingH = 16
+Mode = AC
+Unknown = 16
+FanSpeed = Off
+SetTemp = 70
+CurrentTemp = 23
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Checksum = 68:68   Checksum is valid.
+PROCESSING:AA140101000610011000461700000000000000000044:
+Header1 = 170
+Header2 = 20
+StatusOrCommand = Status
+Power = On
+Unknown = 0
+SwingV = 6
+SwingH = 16
+Mode = AC
+Unknown = 16
+FanSpeed = Off
+SetTemp = 70
+CurrentTemp = 23
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Unknown = 0
+Checksum = 68:68   Checksum is valid.

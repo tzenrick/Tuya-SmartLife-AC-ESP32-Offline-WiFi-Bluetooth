@@ -1,0 +1,7 @@
+Images are varios angle of the current prototype.
+
+A USB A Male breakout board is conneced to the VIN+ and VIN- of the voltage regulator.
+The VOUT+ and VOUT- are connected to the ESP32-C3 on 5V and GND.
+USB A pin2 is connected to ESP32 pin21, and USB A pin3 is connected to ESP32 pin20.
+
+I promise, I cleaned off the flux after I saw these pictures.
